@@ -1,0 +1,106 @@
+H1{
+
+color: silver;
+text-align : center;
+}
+body{
+background-color: gray;
+color:forestgreen ;
+
+}
+.boxone{
+float: right;
+width: 600px;
+height: 500px;
+margin: 100px;
+background-color: black;
+font-family:monospace ;
+border: 5px solid;
+}
+.boxtwo{
+   float: right;
+   width: 800px;
+   height: 500px;
+   margin: 100px;
+   background-color: black;
+color: aquamarine;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+border: 5px solid;
+}
+.boxthree{
+   float: right;
+   width: 600px;
+   height: 500px;
+   margin: 100px;
+   background-color: black;
+color: aquamarine;
+font-family: fantasy;
+border: 5px solid;
+
+}
+.boxfour{
+   float: left;
+   width: 600px;
+   height: 500px;
+   margin: 100px;
+   background-color: black;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: aquamarine;
+   border: 5px solid;
+}
+.boxfive{
+   float: left;
+   width: 600px;
+   height: 500px;
+   margin: 100px;
+   background-color: black;
+color: aquamarine;
+font-family:serif;
+border: 3px solid;
+}
+.boxsix{
+   float: left;
+   width: 900px;
+   height: 500px;
+   margin: 100px;
+   background-color: black;
+color: aquamarine;
+font-family:serif;
+border: 3px solid;
+}
+.boxseven{
+   float: left;
+   width: 900px;
+   height: 500px;
+   margin: 100px;
+   background-color: black;
+color: aquamarine;
+font-family:serif;
+border: 3px solid;
+}
+.boxeight{
+   float: right;
+   width: 1000px;
+   height: 500px;
+   margin: 100px;
+   background-color: black;
+color: aquamarine;
+font-family:serif;
+border: 3px solid;
+}
+.boxnine{
+   float: left;
+   width: 1000px;
+   height: 500px;
+   margin: 100px;
+   background-color: black;
+color: aquamarine;
+font-family:serif;
+border: 3px solid;
+}
+.jpeg{
+float: right;
+}
+.images{
+float: left;
+}

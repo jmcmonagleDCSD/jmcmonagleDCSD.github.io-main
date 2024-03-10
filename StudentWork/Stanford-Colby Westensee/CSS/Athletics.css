@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+
+.Sports{
+    background:linear-gradient(90deg, darkred,  rgb(1, 57, 1) );
+    overflow: hidden;
+    
+}
+body{
+    background-color: #D1D5DE ;
+    color: white;
+}
+
+.Sports ul{
+    float: left;
+    font-size: 40px;
+    width: 20%;
+    margin: 25px;
+    height: 450px;
+    border-radius: 10px;
+    background-color:#03191E;
+    color: #D3FAC7;
+}
+
+.emoji{
+    text-align: center;
+    font-size: 100px;
+}

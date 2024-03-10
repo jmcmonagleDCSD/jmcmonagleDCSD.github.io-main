@@ -1,0 +1,59 @@
+body{
+    background:linear-gradient(90deg, black, gray) ;
+    color: white;
+    
+}
+
+
+
+p{
+    background: linear-gradient(90deg, gray, black);
+    border-color: white;
+
+}
+
+a{
+    background: linear-gradient(90deg, gray, black);
+    color: white;
+}
+
+.Main{
+    background-color: white;
+    overflow: hidden;
+    width: 75%;
+    margin: auto;
+    border-radius: 25px;
+}
+
+.Main img{
+    float: left;
+    border-style: solid;
+    border-radius: 35px;
+    border-width: 10px
+}
+
+.Main p{
+    width: 40%;
+    padding: 5px;
+    margin: 15px;
+    border-style: outset;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 5px;
+}
+
+.p1 {
+    float: left;
+    width: 40%;
+    padding: 5px;
+    margin: 15px;
+    font-size: 52px;
+    border-style: outset;
+    border-color: black;
+    border-radius: 5px;
+}
+
+.Main2{
+    float: left;
+    width: 45%;
+}

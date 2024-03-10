@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-color: #D1D5DE;
+}
+body p{
+    text-align: center;
+    font-size: 35px;
+    background: linear-gradient(darkgreen, darkred);
+    color: #D3FAC7;
+    
+}
+
+.Campus{
+    background: linear-gradient(darkgreen,darkred);
+}

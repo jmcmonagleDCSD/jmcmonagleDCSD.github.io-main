@@ -1,0 +1,17 @@
+.header{
+    padding: 60px;
+    text-align: center;
+    background: blue;
+    font-size: 30px;
+}
+
+body{
+    background-color: blanchedalmond;
+    color: black;
+}
+
+img{
+    width: 1000px;
+    height: 900px;
+    padding: 20px;
+}

@@ -1,0 +1,45 @@
+body{
+    background-color:#d0d6ea;
+}
+h1,h2{
+    font-family: "Leckerli One", cursive;
+        font-weight: 400;
+        font-style: normal;
+    
+}
+p{
+    font-family: "Handlee", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+img{
+    border-radius: 100px;
+    margin:auto;
+     display:block;
+ }
+ .ImageBy{
+    text-align:center;
+ }
+ a:link {
+    color:lightgrey;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: lightslategray;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #b1b3d6;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #b7c8ff;
+    background-color: transparent;
+    text-decoration: underline;
+  }

@@ -1,0 +1,41 @@
+body{
+    background-color:#4c4c4c;
+}
+
+h1{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+
+}
+p{
+    background-color: rgb(255, 255, 255);
+    color: #4c4c4c;
+    font-size: 24px;
+    font-family: "oswald";
+    border-radius: 10px;
+}
+
+h2{
+    text-decoration: dotted;
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
+h1{
+    border-style: groove;
+    border-radius: 9px;
+    border-color: darkblue;
+}
+img{
+    border-radius: 15px;
+    border-style: outset;
+}
+a{
+    color: rgb(0, 217, 255);
+}
+h4{
+    color:rgb(30, 184, 255);
+}
+
+

@@ -1,0 +1,93 @@
+h1{
+    border-color: rgb(172, 231, 100);
+    border-style: dashed;
+    background-color: #ff3223;
+    text-align: center;
+    color: rgb(172, 231, 100);
+}
+
+body{
+    background-color:#942119 ;
+}
+
+hr{
+    border-color: rgb(172, 231, 100);
+}
+
+.what{ 
+    border-color: rgb(172, 231, 100);
+    border-style: dashed;
+    background-color: #ff3223;
+    overflow: hidden;
+}
+
+.boxmuppet h3{
+    color: rgb(172, 231, 100);
+    margin-left: 20px;
+}
+
+.boxmuppet p{
+    color: rgb(172, 231, 100);
+    margin-left: 20px;
+    float: left;
+}
+
+.what img{
+    float: right;
+    margin: 10px;
+    margin-right: 20%;
+    border-color: rgb(172, 231, 100);
+    border-style: ridge;
+}
+
+.boxmuppet{
+    width: 60%;
+    float: left;
+}
+
+h3{
+    color: rgb(172, 231, 100);
+    display: inline-block;
+    margin-left: 20px;
+}
+
+a{
+    
+    font-size: large;
+}
+
+.link{
+    border-color: rgb(172, 231, 100);
+    border-style: dashed;
+    background-color: #ff3223;
+    overflow: hidden;
+}
+
+.homeimg{
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+p{
+    color: rgb(172, 231, 100);
+}
+
+.band{
+    margin-left: 10px;
+    float: left;
+}
+
+.white{
+    margin-left: 10px;
+    float: left;
+}
+
+.piggy{
+    float: left;
+    margin-left: 10px;
+}
+
+img{
+    border-color: rgb(172, 231, 100);
+    border-style: ridge;
+}

@@ -1,0 +1,24 @@
+body{
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    background-color: blue;
+    border: 5px;
+    border-color: black;
+    border-radius: 25px;
+    color: white;
+}
+
+.Ajv{
+    background-color: white;
+    height: 500px;
+    width: 325px;
+    padding: 25px;
+    margin: 10px;
+    border-color: black;
+    border-radius: 5px;
+    border-style: solid;
+    float: left;
+}

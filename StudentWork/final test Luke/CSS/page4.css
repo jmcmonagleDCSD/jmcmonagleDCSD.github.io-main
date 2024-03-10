@@ -1,0 +1,56 @@
+.birth{
+    background-color: white;
+    height: 500px;
+    width: 300px;
+    padding: 25px;
+    margin: 10px;
+    border-color: black;
+    border-radius: 5px;
+    border-style: solid;
+    float: left;
+}
+
+body{
+    background-color:blue;
+}
+
+a{
+    color: white;
+}
+
+h1{
+    text-align: center;
+
+}
+
+.fam{
+    background-color:white;
+    height: 500px;
+    width: 300px;
+    padding: 25px;
+    margin: 10px;
+    border-color: black;
+    border-radius: 5px;
+    border-style: solid;
+    float: left;
+}
+
+.hobies{
+    background-color: white;
+    height: 500px;
+    width: 300px;
+    padding: 25px;
+    margin: 10px;
+    border-color: black;
+    border-radius: 5px;
+    border-style: solid;
+    float: left;
+}
+
+.f{
+    background-color: white;
+    border: 5px;
+    border-radius: 25px;
+    border-color: black;
+    border-style: solid;
+}

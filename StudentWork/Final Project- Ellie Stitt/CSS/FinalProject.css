@@ -1,0 +1,146 @@
+body {
+   background-color: antiquewhite;
+}
+
+.boxone {
+   height: 350px;
+   width: 200px;
+   margin: 50px;
+   padding: 20px;
+   border-style: solid;
+   border-width: 2px;
+   float: left;
+}
+
+.boxtwo {
+   height: 350px;
+   width: 200px;
+   margin: 50px;
+   padding: 20px;
+   border-style: solid;
+   border-width: 2px;
+   float: right;
+}
+
+.boxthree {
+   height: 350px;
+   width: 200px;
+   margin: 50px;
+   padding: 20px;
+   border-style: solid;
+   border-width: 2px;
+   margin-left: 210px;
+   float: left;
+}
+
+h1 {
+   text-align: center;
+   border-style: solid;
+}
+
+
+h3 {
+   text-align: center;
+   width: 400px;
+}
+
+.boxfive {
+   height: 350px;
+   width: 200px;
+   margin: 50px;
+   padding: 20px;
+   border-style: solid;
+   border-width: 2px;
+   float: left;
+}
+
+.boxsix {
+   height: 350px;
+   width: 200px;
+   margin: 50px;
+   padding: 20px;
+   border-style: solid;
+   border-width: 2px;
+   margin-left: 210px;
+   float: left;
+}
+
+.boxseven {
+   height: 350px;
+   width: 200px;
+   margin: 50px;
+   padding: 20px;
+   border-style: solid;
+   border-width: 2px;
+   float: right;
+}
+
+.Platypus {
+   text-align: left;
+}
+
+.boxeight {
+   height: 350px;
+   width: 200px;
+   margin: 50px;
+   padding: 20px;
+   border-style: solid;
+   border-width: 2px;
+   float: left;
+}
+
+.boxnine {
+   height: 350px;
+   width: 200px;
+   margin: 50px;
+   padding: 20px;
+   border-style: solid;
+   border-width: 2px;
+   margin-left: 210px;
+   float: left;
+}
+
+.boxten{
+   height: 350px;
+   width: 200px;
+   margin: 50px;
+   padding: 20px;
+   border-style: solid;
+   border-width: 2px;
+   float: right;
+}
+
+.boxeleven{
+   height: 350px;
+   width: 200px;
+   margin: 50px;
+   padding: 20px;
+   border-style: solid;
+   border-width: 2px;
+   float: left;
+}
+
+.boxthirteen{
+   height: 350px;
+   width: 200px;
+   margin: 50px;
+   padding: 20px;
+   border-style: solid;
+   border-width: 2px;
+   margin-left: 210px;
+   float: left; 
+}
+
+.boxfourteen{
+   height: 350px;
+   width: 200px;
+   margin: 50px;
+   padding: 20px;
+   border-style: solid;
+   border-width: 2px;
+   float: right;
+}
+
+.emoji{
+   text-align: center;
+}

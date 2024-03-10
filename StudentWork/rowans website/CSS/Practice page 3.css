@@ -1,0 +1,36 @@
+body{
+    background-color:aquamarine;
+    color:blue;
+}
+
+p{
+    background-color:aqua;
+    color:black;
+    font-family: "Honk";
+    font-size:24px;
+}
+
+h1{
+    text-align: right;
+    text-decoration: underline;
+}
+
+h3{
+    border-top-style: solid;
+    border-right-style: dashed;
+    border-bottom-style: dotted;
+    border-left-style: ridge;
+    border-width: 10px;
+    border-color:black;
+    border-radius: 15px;
+}
+
+ul{
+    border-top-style: solid;
+    border-left-style: inherit;
+    border-bottom-style: groove;
+    border-right-style: inset;
+    border-width: 15px;
+    border-color:darkorange;
+    border-radius: 15px;
+}

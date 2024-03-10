@@ -1,0 +1,125 @@
+body {
+  background-image: url(../Images/madison-grosvenor-mf-doom-arts.webp);
+  background-size: cover;
+  animation: fadeInAnimation ease 3s;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+
+@keyframes fadeInAnimation {
+  0% {
+      opacity: 0;
+  }
+
+  100% {
+      opacity: 1;
+  }
+}
+hr{
+
+  margin-top: 100px;
+  width: 15%;
+  margin: auto;
+  display: block;
+  
+}
+img{
+border: 5px solid white;
+
+}
+
+
+  
+
+
+.container {
+display: flex;
+flex-direction: column;
+align-items:center;
+justify-content: center;
+
+}
+.image{
+float:left;
+padding: 5px;
+height: 10%;
+width: 10%;
+float: left;
+-webkit-transition: all 0.5s ease-in-out;
+-moz-transition: all 0.5s ease-in-out;
+transition: all 0.5s ease-in-out;
+position: relative;
+
+}
+
+   
+
+img:hover{
+  width: 25%;
+       -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+  cursor: pointer;
+    
+  }
+  
+  .btns{
+    background: transparent;
+    text-decoration: none;
+    position: absolute;
+    top: 75%;
+    font-weight: bold;
+    font-size: xx-large;
+    color: white;
+    left:0px;
+   
+  }
+  
+  .btn{
+    background: transparent;
+    text-decoration: none;
+    position: absolute;
+    top: 75%;
+    font-weight: bold;
+    font-size: xx-large;
+    color: white;
+    right:0px;
+   
+  }
+  
+  .buttons {
+    border: none;
+    background-color: #6293aa;
+    border-radius: 20px;
+    color: #fff;
+    transition: .3s;
+  }
+  .buttons:hover {
+    box-shadow: 8px 8px
+  }
+  
+  .button{
+    background: transparent;
+    text-decoration: none;
+    position: absolute;
+    top: 75%;
+    font-weight: bold;
+    font-size: xx-large;
+    color: white;
+    right:0px;
+    position: absolute;
+    right: 45%;
+   
+  }
+  
+  .button {
+    border: none;
+    background-color: #6293aa;
+    border-radius: 20px;
+    color: #fff;
+    transition: .3s;
+  }
+  .button:hover {
+    box-shadow: 8px 8px
+  }

@@ -1,0 +1,46 @@
+body{
+    background-color: #0066cc;
+}
+.Homepage{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Food{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Habitat{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Predators{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Facts{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.finale{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Info1{
+    text-align: center;
+}
+.Lemons{
+    border-style: double;
+    width: 400px;
+    height: 350px;
+    border-width: 40px;
+}
+.LemonText{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.Lemon2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}

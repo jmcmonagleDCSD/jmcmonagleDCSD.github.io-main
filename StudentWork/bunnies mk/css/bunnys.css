@@ -1,0 +1,10 @@
+body{
+    background-color: tan;
+    color: black;
+} 
+
+img{
+    width: 700px;
+    height: 600px;
+    padding: 20px;
+}

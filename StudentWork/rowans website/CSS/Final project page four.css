@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    background-color: green;
+    color: gold;
+}
+
+body{
+    background-color: burlywood;
+}
+
+.Strategies{
+    background-color:green;
+    height: 1000px;
+    width: 300px;
+    float: left;
+    margin: 10px;
+    padding: 25px;
+}

@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+}
+
+p{
+    color:chartreuse;
+    font-family:'Sixtyfour';
+}
+
+ul{
+    color: chartreuse;
+    border-bottom-style:solid;
+    border-top-style:solid;
+    border-left-style:solid;
+    border-right-style:solid;
+    font-family:'Sixtyfour';
+}
+
+h1{
+    color: chartreuse;
+    border-bottom-style:solid;
+    border-top-style:solid;
+    border-left-style:solid;
+    border-right-style:solid;
+    font-family:'Sixtyfour';
+}
+
+h2{
+    color: chartreuse;
+    font-family:'Sixtyfour';
+}
+
+h3{
+    color: chartreuse;
+    font-family:'Sixtyfour';
+}
+
+h5{
+    color: chartreuse;
+    font-family:'Sixtyfour';
+}
+
+h6{
+    color:white;
+    font-family:'Sixtyfour';
+}
+
+h4{
+    color:white;
+    font-family:'Sixtyfour';
+}
+
+.warning{
+    background-color: deeppink;
+    h3{
+        color: black;
+    }
+    p{
+        color: black;
+    }
+}

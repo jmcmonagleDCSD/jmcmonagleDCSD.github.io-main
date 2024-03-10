@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(147, 217, 147);
+}
+
+h1{
+    text-align: center;
+    font-family: "Space Mono", monospace;
+
+    
+}
+
+
+a{
+    background-color: rgb(255, 255, 255);
+    text-decoration: wavy;
+    color: black;
+}
+
+.link{
+    text-align: center;
+}

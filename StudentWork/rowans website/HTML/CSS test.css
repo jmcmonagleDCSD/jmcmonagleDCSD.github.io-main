@@ -1,0 +1,79 @@
+.Info1{
+    background-color: blue;
+    width: 30%;
+    height: 500px;
+    float: left;
+    margin: 15px;
+    margin-top: 60px;
+    margin-bottom: 60px
+ }
+ .Info2{
+    background-color: blue;
+    width: 30%;
+    height: 500px;
+    float: left;
+    margin: 15px;
+    margin-top: 60px;
+    margin-bottom: 60px
+ }
+    .Info2 p{
+    background-color: red;
+    height: 50px;
+    width: 290px;
+    text-align: left;
+    border-radius: 100px;
+    border-width: 10px;
+    border-style: solid;
+    
+   }
+ .Info3{
+    background-color: blue;
+    width: 30%;
+    height: 500px;
+    float: left;
+    margin: 15px;
+    margin-top: 60px;
+    margin-bottom: 60px
+ 
+ }
+ .the4ththing{
+    float: left;
+    background-color: cornflowerblue;
+
+ }
+.heading h1{
+    text-align: center;
+    background-color: salmon;
+    color: aliceblue;
+}
+body{
+    background-color: lightskyblue;
+}
+.lastthing{
+   margin-top: 100px;
+    width: 200px;
+    height: 200px;
+   margin: auto;
+    margin-bottom: 300px;
+    font-size: 200px;
+    text-align: center;
+    background-color: azure;
+    clear: both;
+}
+.the4ththing p{
+    width: 50%;
+    height: 220px;
+    float: right;
+    background-color: aqua;
+    margin: 20px;
+    padding: 20px;
+    font-family: fantasy;
+}
+.the4ththing img{
+   float: left;
+   margin: 20px;
+}
+.the4ththing h1{
+float: left;
+margin: 10px;
+}

@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(118, 104, 10);
+}
+.National{
+    border-style:solid;
+    background-color:rgb(231, 197, 43);
+    text-align: center;
+}
+.dropdowntbn{
+    background-color: rgb(76, 250, 79);
+    color:white;
+    padding:24px;
+    border:none;
+    cursor:pointer;
+}
+.dropdown{
+    position:relative;
+    display:inline-block;
+}
+.dropdown-content{
+    display:none;
+    position:absolute;
+    background-color: rgb(62, 117, 200);
+    min-width: 200px;
+    box-shadow: 20px 8px 16px opx rgb(0,0,0.05);
+    z-index: 1;
+}
+.dropdown-content a{
+    color:black;
+    padding:12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {
+background-color:rgb(223, 227, 106);
+}
+.dropdown:hover .dropdown-content{
+    display:block;
+}
+.dropdown:hover .dropbtn{
+    background-color:rgb(58, 144, 242);
+}
+.Explain{
+    border-style:groove;
+    background-color:rgb(126, 123, 123);
+    width:500px;
+    float:right;
+}
+.List{
+    background-color:rgb(66, 65, 65);
+    border-style:ridge;
+    width:500px;
+}
+.Parks{
+    background-color:rgb(71, 54, 42);
+    border-style:double;
+    height: 280px;
+    
+}
+.favorites{
+    border-style:dashed;
+    background-color: rgb(58, 48, 41);
+    width:500px;
+}
+.SandDunes{
+    background-color:rgb(160, 155, 112);
+    border-style:solid;
+    border-color:rgb(60, 55, 55);
+    width:500px;
+
+}
+.image img{
+    border-style:solid;
+ Float:right;
+    border-radius:10%;
+    
+}
+.image p{
+    border-style:solid;
+    width:100px;
+    border-radius:10%;
+    background-color:rgb(235, 170, 80);
+    float:right;
+}
+.pass{
+    Border-style:solid;
+    width:550px;
+    background-color:rgb(194, 134, 88);
+}
+.GC{
+    border-style: inset;
+    border-radius:30% ;
+}
+.GCP{
+    background-color:rgb(255, 153, 0);
+    border-style:outset;
+    width:150px;
+}

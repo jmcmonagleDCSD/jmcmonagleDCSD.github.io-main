@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="../CSS/ItApps_style.css">
+    </head>
+    <body>
+        <!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="../CSS/i">
+    </head>
+    <body>
+        <div class = 'navbar'>
+            <a href="Homepage.html"><img src="../Images/Homepage/My_Logo.jpg" alt="McMonagle's Logo" class="logo"></a>
+            <div class="nav-links">
+                <div class="dropdown">                    
+                    <button class="dropbtn">Google Classroom</button>
+                    <div class="dropdown-content">
+                        <a href="https://classroom.google.com/u/0/c/NTIzMTgwNTQxNTM0">Block 1</a>
+                        <a href="https://classroom.google.com/u/0/c/NTIzMTgwMzEwMzU0">Block 2</a>
+                        <a href="https://classroom.google.com/u/0/c/NTIzMTgwNjM4OTk3">Block 4</a>
+                        <a href="https://classroom.google.com/u/0/c/NTIzMTgwNDk4MjY3">Block 5</a>
+                        <a href="https://classroom.google.com/u/0/c/NTIzMTgwNDQ0Nzgy">Block 7</a>
+                    </div>
+                </div> 
+                <a href="ItApps.html">It Application and Design</a>
+                <a href="ComputerScience.html">Exploring Computer Science</a>
+                <a href="DigitalDesign.html">Digital Design</a>
+            </div>
+        </div>
+
+        <div class="banner">
+            <h1>IT Application and Design</h1>
+        </div>
+
+        <div class="content">
+            <h3 class="topic">Parent Info</h3>
+            <div class="info">
+                <a href="https://docs.google.com/forms/d/18VNfzRmRYamESbqA0IHLTTu9ioGk8p0J2zLzluDXxvk/edit" target="_blank">
+                    <div class="card">
+                        <h3>Saftey contract</h3>
+                    </div>
+                </a>
+            
+                <button id="openModalBtn">Saftey Information</button>
+
+                <div id="myModal" class="modal">
+                    <div class="modal-content">
+                        <span class="close">&times;</span>
+                        <h2>Saftey Information:</h2>
+                        <p>
+                        <b>Checking Out Equipment:</b>
+                        When checking out equipment from the desk area, please make sure to present a school ID.
+                        <br><br>
+                        <b>Glue Gun Usage:</b>
+                        Before using the glue gun, take the time to review all its parts and functions.  Remember to prioritize safety for yourself and others. Mishandling the glue gun may result in a referral.
+                        <br><br>
+
+                        <b>Paint Handling:</b>
+                        When using paint, only take a small amount into the paint tray. After use, ensure the area is cleaned, and the tools are properly put away.
+                        <br><br>
+
+                        <b>Fridge Usage:</b>
+                        Please note that the fridge is off-limits, except when using eggs.
+                        <br><br>
+
+                        <b>Bucket Table:</b>
+                        Familiarize yourself with the contents of the buckets, which may include snips, a paint scraper, building rulers, sissors, pliers and many other tools. Please put tools back in the correct bucket.
+                        <br><br>
+
+                        <b>Locker Usage:</b>
+                        Utilize your assigned locker for storage and avoid looking for your supplies in someone else's locker. If you have a porject that doesn't fit in your shoe box, ask for permission to use the blue locker to store your project. Long sticks can be kept in the office. Do not store supplies on top of the lockers.
+                        <br><br>
+
+                        <b>Class Cleanup:</b>
+                        After working, on the walls are dusters and wet paper for sawdust. Additionally, please stack chairs and sweep the area to maintain cleanliness.
+                        <br><br>
+
+                        <b>Handling Materials and Tools:</b>
+                        Be aware that other students may feel nervous when handling materials and tools. Approach tasks cautiously and with attention to safety.
+                        <br><br>
+
+                        <b>Big Power Tool Usage:</b>
+                        When using big power tools, at most there can be 2-3 people present per machine. Maintain a safe distance from the tool if waiting and avoid talking during its operation.
+                        <br><br>
+
+                        <b>Protective Gear:</b>
+                        Always wear safety glasses and avoid wearing loose or baggy clothing that could get caught in machinery. Tie back long hair to prevent accidents.
+                        <br><br>
+
+                        <b>Injury Assistance:</b>
+                        In case of injuries, seek immediate assistance from the appropriate personnel. <b>DO NOT HIDE INJURIES</b>
+                        <br><br>
+
+                        Remember, safety is everyone's responsibility, and by following these guidelines, we can create a secure and productive workspace for all.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <h3 class="topic">Student Info</h3>
+            <div class="info">
+                <a href="https://docs.google.com/presentation/d/1hy535uCPgSFFYS5ALDpqR1tvusm9wZi1Q_WUlGnUOZg/edit?usp=sharing" target="_blank">
+                    <div class="card">
+                        <h3>Blank Journal</h3>
+                    </div>
+                </a>
+                <div class="card" id="projects">
+                    <h3>Class Project Options</h3>
+                    <div class="card" id="projects-info">Water Bottle Rocket <br> CO2 Car <br> Ping Pong Launcher <br> MagLev <br> Bridge <br> Structure <br> Wind Turbine <br> Ballon Car <br> Egg Crush </div>
+                </div>
+                <a href="https://docs.google.com/document/d/1hhtnNKot7azGsjNSnp30t4ESXhKCCfGtJnsQJ7pZ9Eg/edit?usp=sharing" target="_blank">
+                    <div class="card">
+                        <h3>My Grading Sheet</h3>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="padding"></div>
+    <script>
+        // Get the modal element
+        const modal = document.getElementById('myModal');
+        
+        // Get the button that opens the modal
+        const openModalBtn = document.getElementById('openModalBtn');
+        
+        // Get the close button element
+        const closeBtn = document.getElementsByClassName('close')[0];
+        
+        // Function to open the modal
+        function openModal() {
+            modal.style.display = 'block';
+        }
+        
+        // Function to close the modal
+        function closeModal() {
+            modal.style.display = 'none';
+        }
+        
+        // Event listener to open the modal when the button is clicked
+        openModalBtn.addEventListener('click', openModal);
+        
+        // Event listener to close the modal when the close button is clicked
+        closeBtn.addEventListener('click', closeModal);
+        
+        // Event listener to close the modal when clicking outside the modal content
+        window.addEventListener('click', (event) => {
+            if (event.target === modal) {
+            closeModal();
+            }
+        });
+        </script>
+    </body>
+</html>

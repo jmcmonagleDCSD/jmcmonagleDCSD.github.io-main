@@ -1,0 +1,94 @@
+body{
+    background-color: #000103;
+    color: #FF312E;
+}
+
+.dropdown{
+    position: relative;
+    display: inline-block;
+    height: 50px;
+    background-color: #333133;
+    margin: 5px;
+    width: 23%;
+    padding: 5px;
+}
+
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+
+.HowTo{
+    color: white;  
+}
+
+a{
+    color: #000103;
+}
+
+h1{
+    text-align: center;
+}
+
+.pg{
+    width: 47%;
+    background-color: #333133;
+    height: 400px;
+    font-size: 27px;
+    float: left;
+    padding: 10px;
+    margin: 5px;
+}
+
+.ff{
+    width: 47%;
+    background-color: #333133;
+    height: 400px;
+    font-size: 26px;
+    float: right;
+    padding: 10px;
+    margin: 5px;
+}
+
+.ll{
+    width: 30%;
+    background-color: #333133;
+    height: 500px;
+    font-size: 26px;
+    float: left;
+    padding: 10px;
+    margin: 5px; 
+}
+
+.rr{
+    width: 30%;
+    background-color: #333133;
+    height: 500px;
+    font-size: 29px;
+    float: left;
+    padding: 10px;
+    margin: 5px; 
+}
+
+.gg{
+    width: 30%;
+    background-color: #333133;
+    height: 500px;
+    font-size: 25px;
+    float: left;
+    padding: 10px;
+    margin: 5px; 
+}
+
+label{
+    font-size: 30px;
+}

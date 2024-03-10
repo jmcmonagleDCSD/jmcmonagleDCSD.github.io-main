@@ -1,0 +1,16 @@
+h1{
+    background-color: white;
+    font-family: 'Protest Guerrilla', sans-serif;
+    width: 500px;
+    height: 250px;
+}
+p{
+    width: 500px;
+    height: 250px;
+    font-family: 'Protest Guerrilla', sans-serif;
+    background-color: white;
+}
+body{
+    background-color: red;
+    font-family: 'Protest Guerrilla', sans-serif;
+}

@@ -1,0 +1,48 @@
+body{
+    background:linear-gradient(90deg, black, gray) ;
+    color: white;
+}
+
+p, li, ul{
+    background: linear-gradient(90deg, gray, black);
+}
+
+.Tracks{
+    background-color: white;
+    overflow: hidden;
+    height: 500px;
+}
+
+.Tracks ul{
+    font-size: 32px;
+    width: 21%;
+    float: left;
+    margin: 25px;
+    height: 450px;
+    border-radius: 10px;
+}
+
+img{
+    width: 30%;
+    float: left;
+    margin: 35px;
+}
+
+.Info{
+    font-size: 45px;
+    margin: auto;
+    width: 50%;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 10px;
+    margin-bottom: 35px;
+}
+
+a{
+    background: linear-gradient(90deg, gray, black);
+    color: white;
+}
+
+.cite{
+    text-align: center;
+}

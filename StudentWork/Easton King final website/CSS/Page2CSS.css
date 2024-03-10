@@ -1,0 +1,82 @@
+body{
+    background-color: #0066cc;
+}
+.Homepage{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Food{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Habitat{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Predators{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Facts{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.finale{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Diet{
+    text-align: center;
+}
+.firstfood{
+    background-color: rgb(48, 236, 133);
+    height: 500px;
+    width: 500px;
+    float: left;
+    border-style: dotted;
+}
+.bonyfish{
+    border-style: dashed;
+    text-align: center;
+}
+.lemonshark6{
+    height: 300px;
+    width: 300px;
+}
+.box2{
+    background-color: rgb(48, 236, 133);
+    height: 500px;
+    width: 500px;
+    float: right;
+    border-style: dashed;
+}
+.box2text{
+    border-style: solid;
+    text-align: center;
+}
+.info4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.box3{
+    background-color: rgb(48, 236, 133);
+    height: 500px;
+    width: 500px;
+    float: right;
+    margin-right: 500px;
+    border-style: solid;
+}
+.lastfood{
+    text-align: center;
+    border-style: ridge;
+}
+.foodp{
+    text-align: center;
+}
+.crab{
+    height: 300px;
+    width: 300px;
+}
+.rays{
+    height: 300px;
+    width: 300px;
+}

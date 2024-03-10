@@ -1,0 +1,75 @@
+body{
+    background-color:#EFF6EE;
+}
+.Heading1{
+    font-size: 80px;
+    margin-left:1000px;
+    color:#a680a6;
+    text-decoration: underline;
+    text-decoration-color:rgb(212, 234, 253);
+    text-decoration-style: dashed;
+}
+.Links{
+    margin-left:750px;
+    font-size: 35px;
+}
+.spteri1 img{
+   margin-left:400px;
+   width:70%;
+   border:5px;
+    border-color:#EFF6EE;
+    border-radius: 100px;
+}
+.spteri1 p{
+    margin-left:1100px;
+    font-size: 25px;
+    color:#698996;
+}
+.Pro-Teri{
+    font-size: 80px;
+    color:#698996;
+    font-size: 30px;
+    font-size: 40px;
+    border-radius: 10px;
+    border-style:double;
+    border-color:#698996;
+    background-color:whitesmoke;
+    border-width: 10px;
+    padding:40px;
+}
+.SuperTeri{
+    font-size: 80px;
+    color:#698996;
+    font-size: 30px;
+    font-size: 40px;
+    border-radius: 10px;
+    border-style:double;
+    border-color:#698996;
+    background-color:whitesmoke;
+    border-width: 10px;
+    padding:40px;
+}
+.ZeroGravityX{
+    font-size: 80px;
+    color:#698996;
+    font-size: 30px;
+    font-size: 40px;
+    border-radius: 10px;
+    border-style:double;
+    border-color:#698996;
+    background-color:whitesmoke;
+    border-width: 10px;
+    padding:40px;
+}
+.X1{
+    font-size: 80px;
+    color:#698996;
+    font-size: 30px;
+    font-size: 40px;
+    border-radius: 10px;
+    border-style:double;
+    border-color:#698996;
+    background-color:whitesmoke;
+    border-width: 10px;
+    padding:40px;
+}

@@ -1,0 +1,19 @@
+body{
+    background-color: darkgreen;
+}
+.box1{
+    background-color: brown;
+    border-radius: 50px;
+    height: 60px;
+    padding-left: 20px;
+}
+.box2{
+    background-color: brown;
+    border-radius: 50px;
+    height: 400px;
+    padding-left: 30px;
+}
+.box3{
+    height: 59 px;
+    width: px 45;
+}

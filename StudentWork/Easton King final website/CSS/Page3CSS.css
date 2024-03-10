@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(29, 116, 260);
+}
+.Homepage{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Food{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Habitat{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Predators{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Facts{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.finale{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.habitat2{
+    text-align: center;
+    border-style: dashed;
+    border-left-color: coral;
+    border-top-color: coral;
+    border-right-color: red;
+    border-bottom-color: red;
+    
+}
+.mangoe{
+    background-color: rgb(48, 236, 133);
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+.text11{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.grove{
+    width: 200px;
+    height: 200px;
+}
+.banana{
+    background-color: rgb(48, 236, 133);
+    width: 500px;
+    height: 500px;
+    float: right;
+}
+.coral{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.reef{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

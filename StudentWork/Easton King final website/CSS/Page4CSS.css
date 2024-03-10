@@ -1,0 +1,91 @@
+body{
+    background-color: #0066cc;
+}
+.Homepage{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Food{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Habitat{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Predators{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Facts{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.finale{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Pred2{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+.pred1{
+    background-color: aqua;
+    border-style: ridge;
+    border-right-color: coral;
+    border-bottom-color: coral;
+    border-left-color: rgb(48, 236, 133);
+    border-top-color: rgb(48, 236, 133);
+    width: 2000px;
+    height: 500px;
+    float: left;
+}
+.pred3{
+    border-style: groove;
+    margin-left: 900px;
+    margin-right: 900px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-right-color: coral;
+    border-bottom-color: coral;
+    border-left-color: rgb(48, 236, 133);
+    border-top-color: rgb(48, 236, 133);
+    border-width: 20px;
+    
+}
+.engrave{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.key3{
+    float: right;
+    background-color: black;
+    width: 538px;
+    height: 500px;
+}
+.key2{
+    background-color: rgb(48, 236, 133);
+    width: 2000px;
+    height: 300px;
+    float: left;
+    border-style: groove;
+    border-right-color: coral;
+    border-top-color: coral;
+    border-bottom-color: red;
+    border-left-color: red;
+}
+.predy{
+    text-align: center;
+}
+.kes{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.key32{
+    height: 200px;
+    padding-left: 1000px;
+}
+.ng4{
+   float: right;
+   padding-right: 400px;
+}

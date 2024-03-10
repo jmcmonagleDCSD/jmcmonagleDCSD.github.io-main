@@ -1,0 +1,117 @@
+body{
+    background-color: brown;
+}
+
+p{
+    color: rgb(172, 231, 100);
+}
+
+h1{
+    border-color: rgb(172, 231, 100);
+    border-style: dashed;
+    background-color: #ff3223;
+    text-align: center;
+    color: rgb(172, 231, 100);
+}
+
+.fozzie{
+    background-color: #ff3223;
+    border-color: rgb(172, 231, 100);
+    border-style: dashed;
+    overflow: hidden;
+    width: 500px;
+    float: left;
+} 
+
+.fozzie img{
+    float: right;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+
+.fozzie p{
+    float: left;
+    width: 40%;
+}
+
+h3{
+    color: rgb(172, 231, 100);
+}
+
+.kermit{
+    background-color: #ff3223;
+    border-color: rgb(172, 231, 100);
+    border-style: dashed;
+    overflow: hidden;
+    width: 500px;
+    margin-bottom: 50px;
+    float: left;
+    margin-right: 50px;
+}
+
+.kermit img{
+    float: right;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+
+.kermit p{
+    float: left;
+    width: 40%;
+}
+
+.piggy{
+    background-color: #ff3223;
+    border-color: rgb(172, 231, 100);
+    border-style: dashed;
+    overflow: hidden;
+    width: 500px;
+    margin-bottom: 50px;
+    float: left;
+    margin-left: 50px;
+}
+
+.piggy img{
+    float: right;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+
+.piggy p{
+    float: left;
+    width: 40%;
+}
+
+.img{
+    margin-top: 20px;
+    float: left;
+    margin-left: 40px;
+    background-color: #ff3223;
+    border-color: rgb(172, 231, 100);
+    border-style: dashed;
+}
+
+.gonzo{
+    background-color: #ff3223;
+    border-color: rgb(172, 231, 100);
+    border-style: dashed;
+    overflow: hidden;
+    width: 500px;
+    margin-bottom: 50px;
+    float: left;
+    margin-left: 50px;
+}
+
+.gonzo img{
+    float: right;
+    margin-right: 40px;
+    margin-bottom: 40px;
+}
+
+.gonzo p{
+    float: left;
+    width: 40%;
+}
+ a{
+    margin-left: 40px;
+ }

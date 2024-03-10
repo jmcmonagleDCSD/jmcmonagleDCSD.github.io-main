@@ -1,0 +1,103 @@
+/*This Is the Code for the link boxes*/
+
+.Links{
+    border-width: 8px;
+    border-color:rgb(101, 0, 0);
+    background-color: rgb(100, 33, 0);
+    border-style: solid;
+    text-align: center;
+}
+a:link{
+    text-decoration: none;
+    color: rgb(101, 0, 0);
+}
+a:visited{
+    text-decoration: none;
+    color: rgb(101, 0, 0);
+}
+.Link1{
+    height: 48px;
+    width: 96px;
+    display: inline-block;
+    font-size: 22px;
+    border-width: 6px;
+    margin: 12px;
+    background-color: rgb(238, 238, 238);
+    border-style: solid;
+}
+.Link2{
+    height: 48px;
+    width: 96px;
+    display: inline-block;
+    font-size: 22px;
+    border-width: 6px;
+    margin: 12px;
+    background-color: rgb(238, 238, 238);
+    border-style: solid;
+}
+.Link3{
+    height: 48px;
+    width: 96px;
+    display: inline-block;
+    font-size: 22px;
+    border-width: 6px;
+    margin: 12px;
+    background-color: rgb(238, 238, 238);
+    border-style: solid;
+}
+.Link4{
+    height: 48px;
+    width: 96px;
+    display: inline-block;
+    font-size: 22px;
+    border-width: 6px;
+    margin: 12px;
+    background-color: rgb(238, 238, 238);
+    border-style: solid;
+}
+
+body{
+    font-family: "Cookie", cursive;
+    color: rgb(255, 196, 144);
+    background-color: rgb(144, 41, 0);
+}
+
+hr{
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(101, 0, 0);
+}
+
+.Title{
+    text-align: center;
+    text-shadow: 3px 3px rgb(204, 156, 113);
+    font-family: Shadow;  font-family: "Shadows Into Light", cursive;
+    height: 110px;
+    font-size: 120px;
+}
+
+
+.Overall{
+    float: right;
+    width: 49%;
+    padding: 4px;
+    border-style: solid;
+    border-width: 8px;
+    background-color: rgb(80, 27, 0);
+    position: relative;
+}
+
+.Sloth{
+    float: right;
+    position: relative;
+    bottom: 140px;
+}
+
+.No2{
+    width: 56%;
+    padding: 4px;
+    border-style: solid;
+    border-width: 8px;
+    background-color: rgb(80, 27, 0);
+    position: relative;
+}

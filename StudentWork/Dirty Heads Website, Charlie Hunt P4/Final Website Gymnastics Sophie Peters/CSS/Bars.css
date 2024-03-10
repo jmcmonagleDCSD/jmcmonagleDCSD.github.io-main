@@ -1,0 +1,35 @@
+body{
+    background-color:#c0c3f5;
+}
+iframe{
+    border-color:#ffffff;
+    border-width: 10px;
+}
+a:link {
+    color:lightgrey;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: lightslategray;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #b1b3d6;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #b7c8ff;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+p{
+  font-family: "Handlee", cursive;
+  font-weight: 400;
+  font-style: normal;
+}

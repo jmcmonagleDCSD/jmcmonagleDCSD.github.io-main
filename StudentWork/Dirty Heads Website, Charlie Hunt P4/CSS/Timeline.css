@@ -1,0 +1,161 @@
+/*This Is the Code for the link boxes*/
+
+.Links{
+    border-width: 8px;
+    border-color:rgb(101, 0, 0);
+    background-color: rgb(100, 33, 0);
+    border-style: solid;
+    text-align: center;
+}
+a:link{
+    text-decoration: none;
+    color: rgb(101, 0, 0);
+}
+a:visited{
+    text-decoration: none;
+    color: rgb(101, 0, 0);
+}
+.Link1{
+    height: 48px;
+    width: 96px;
+    display: inline-block;
+    font-size: 22px;
+    border-width: 6px;
+    margin: 12px;
+    background-color: rgb(238, 238, 238);
+    border-style: solid;
+}
+.Link2{
+    height: 48px;
+    width: 96px;
+    display: inline-block;
+    font-size: 22px;
+    border-width: 6px;
+    margin: 12px;
+    background-color: rgb(238, 238, 238);
+    border-style: solid;
+}
+.Link3{
+    height: 48px;
+    width: 96px;
+    display: inline-block;
+    font-size: 22px;
+    border-width: 6px;
+    margin: 12px;
+    background-color: rgb(238, 238, 238);
+    border-style: solid;
+}
+.Link4{
+    height: 48px;
+    width: 96px;
+    display: inline-block;
+    font-size: 22px;
+    border-width: 6px;
+    margin: 12px;
+    background-color: rgb(238, 238, 238);
+    border-style: solid;
+}
+
+body{
+    font-family: "Cookie", cursive;
+    color: rgb(255, 196, 144);
+    background-color: rgb(144, 41, 0);
+}
+
+hr{
+    border-style: solid;
+    border-width: 4px;
+    border-color: rgb(101, 0, 0);
+}
+
+.Title{
+    text-align: center;
+    text-shadow: 3px 3px rgb(204, 156, 113);
+    font-family: Shadow;  font-family: "Shadows Into Light", cursive;
+    height: 110px;
+    font-size: 120px;
+}
+
+.No1{
+    height: 200px;
+    padding: 4px;
+    border-style: solid;
+    border-width: 8px;
+    background-color: rgb(80, 27, 0);
+    position: relative;
+}
+.No2{
+    height: 200px;
+    padding: 4px;
+    border-style: solid;
+    border-width: 8px;
+    background-color: rgb(80, 27, 0);
+    position: relative;
+    bottom: 25px;
+}
+
+.One{
+    position: relative;
+    bottom: 250px;
+    left: 15px;
+}
+
+.Two{
+    position: relative;
+    bottom: 440px;
+    left: 35px;
+}
+
+.Three{
+    position: relative;
+    bottom: 440px;
+    left: 160px;
+}
+
+.Four{
+    position: relative;
+    bottom: 620px;
+    left: 230px;
+}
+
+.Five{
+    position: relative;
+    bottom: 620px;
+    left: 330px;
+}
+
+.Six{
+    position: relative;
+    bottom: 800px;
+    left: 420px;
+}
+
+.Seven{
+    position: relative;
+    bottom: 800px;
+    left: 480px;
+}
+
+.Eight{
+    position: relative;
+    bottom: 980px;
+    left: 560px;
+}
+
+.Nine{
+    position: relative;
+    bottom: 990px;
+    left: 650px;
+}
+
+.Ten{
+    position: relative;
+    bottom: 1160px;
+    left: 750px;
+}
+
+.ComingSoon{
+    position: relative;
+    bottom: 1150px;
+    left: 820px;
+}

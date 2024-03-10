@@ -1,0 +1,52 @@
+body{
+    background-color: #0066cc;
+}
+.Homepage{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Food{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Habitat{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Predators{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.Facts{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.finale{
+    background-color: rgb(48, 236, 133);
+    border-style: double;
+}
+.geo{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.ff3{
+    background-color: rgb(48, 236, 133);
+    width: 2000px;
+    height: 500px;
+    float: left;
+    overflow: hidden;
+}
+.dda{
+    background-color: coral;
+    height: 500px;
+    width: 500px;
+    float: right;
+    border-style: groove;
+    border-color: #1B2F11;
+    border-width: 15px;
+    border-bottom-style: groove;
+}
+.ret{
+    float: left;
+    font-size: larger;
+}

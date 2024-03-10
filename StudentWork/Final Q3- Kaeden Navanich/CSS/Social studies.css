@@ -1,0 +1,27 @@
+Html{
+    background-color: maroon;
+}
+.links a{
+   color: aliceblue;
+   width: 350px;
+}
+.Reasons h1{
+   color: mintcream;
+}
+.Reasons li{
+   color: aquamarine;
+   width: 350px;
+
+}
+body{
+   border-style: outset;
+   border-left: 10px;
+   border-radius: 15%;
+   max-width: 1000px;
+}
+img{ 
+   float: left;
+}
+p{
+   color: cornflowerblue;
+}

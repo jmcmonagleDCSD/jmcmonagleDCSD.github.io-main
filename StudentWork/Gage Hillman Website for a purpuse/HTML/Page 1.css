@@ -1,0 +1,42 @@
+body{
+    background-color: orangered;
+}
+
+h1{
+    color: white;
+    background-color: blue;
+    text-align: center;
+    border: 15px solid black;
+}
+
+.boxone{
+    background-color: blue;
+    width: 200px;
+    height: 50px;
+    float: left;
+    color: white;
+    padding: 20px;
+    border: 15px solid black;
+    margin: 10px;
+}
+
+.boxtwo{
+    background-color: blue;
+    width: 200px;
+    height: 50px;
+    float: left;
+    color: white;
+    padding: 20px;
+    border: 15px solid black;
+    margin: 10px;
+}
+.boxthree{
+    background-color: blue;
+    width: 200px;
+    height: 50px;
+    float: left;
+    color: white;
+    padding: 20px;
+    border: 15px solid black;
+    margin: 10px;
+}

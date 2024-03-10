@@ -1,0 +1,70 @@
+html{
+    background-color: rgb(31, 30, 30);
+}
+.linkbar{
+    background-color: rgb(54, 70, 139);
+    border-style: groove;
+    border-width: 5px;
+    margin: 10px;
+    text-align: center;
+    padding: 40px;
+    overflow: hidden;
+    border-color: red;
+}
+.linkbar a{
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: black;
+    border-style: groove;
+    border-width: 4px;
+    color: white;
+    transition-duration: 1.5s;
+}
+.linkbar a:hover{
+    padding: 23px;
+    font-size: 30px;
+}
+.numone{
+    border-style: groove;
+    border-width: 5px;
+    margin: 10px;
+    background-color: rgb(25, 118, 161);
+}
+.numone h1 {
+    font-family: "Anta", sans-serif;
+    font-style: normal;
+    text-align: center;
+    text-decoration: underline;
+    border-width: 4px;
+    border-style: double;
+    background-color: rgb(167, 100, 52);
+}
+.numone p{
+    font-size: 30px;
+    text-align: center;
+}
+.numtwo{
+    border-style: double;
+    border-width: 5px;
+    background-color: beige;
+    margin: 10px;
+    text-align: center;
+}
+.numthree{
+    border-style:dashed;
+    border-width: 5px;
+    margin: 10px;
+    background-color: rgb(62, 160, 173);
+    text-align: center;
+}
+.numthree h2{
+    font-family: "Anta", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    text-align: center;
+    text-decoration: overline;
+}
+.numthree h3{
+    text-align: center;
+}

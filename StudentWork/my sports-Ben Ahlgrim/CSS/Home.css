@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(84, 84, 84);
+    color:rgb(255, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+    padding: 17px;
+}
+
+img{
+    border-radius: 15px;
+    margin: auto;
+    display: block;
+    filter: brightness(1.5);
+    filter: sepia(30%);
+    filter: saturate(60%);
+}
+
+.Joe{
+background-color: rgb(255, 255, 255);
+color: black;
+}
+
+.Jim{
+    clear: both;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+p{
+    text-align: center;
+    font-size: 23px;
+    
+    
+}
+
+a{
+    color: cyan;
+    
+}
+
+p{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+    border-style: dashed;
+}

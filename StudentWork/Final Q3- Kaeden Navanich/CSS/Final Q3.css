@@ -1,0 +1,36 @@
+html{
+    background-color: maroon;
+}
+.Links a{
+    color: aliceblue;
+}
+.Main_part h1{
+    color: mintcream;
+
+}
+.Main_part li{
+    color: aquamarine;
+}
+body{
+    border: 5px;
+    border-radius: 10%;
+    border-style: dashed;
+   
+}
+.Main_part p{
+    color: violet;
+    float: right;
+} 
+.img p{
+    color: cornflowerblue;
+    float: left;
+}
+.CssXtra p{ float: left;
+transform: rotateZ(270deg);
+}
+h6{
+    float: right;
+}
+body{
+    width: 475px;
+}

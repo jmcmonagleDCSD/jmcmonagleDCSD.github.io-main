@@ -1,0 +1,122 @@
+html{
+    background-color: rgb(41, 38, 38);
+}
+.linkbar{
+    background-color: rgb(73, 123, 180);
+    border-style: groove;
+    border-width: 5px;
+    margin: 10px;
+    text-align: center;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+.linkbar a{
+    background-color: black;
+    border-style: groove;
+    border-width: 4px;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    transition-duration: 1.5s;
+}
+.linkbar a:hover{
+    padding: 23px;
+    font-size: 30px;
+}
+.numone{
+    border-style: groove;
+    border-width: 5px;
+    margin: 10px;
+    background-color: rgb(25, 118, 161);
+    text-align: center;
+}
+.numone h2 {
+    font-family: "Anta", sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    text-align: center;
+    text-decoration: underline;
+}
+.numone button{
+    height: 60px;
+    width: 210px;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 10px;
+    margin-top: 15px;
+    color: red;
+    border-width: 3px;
+    border-style: dotted;
+    transition-duration: 1s;
+}
+.numone button:hover{
+    background-color: rgb(91, 91, 165);
+}
+.numtwo{
+    background-color: beige;
+    border-style: double;
+    border-width: 3px;
+    text-align: left;
+    width: 1000px;
+    height: 150;
+    margin-left: 750px;
+    text-align: center;
+    clear: both;
+}
+.numtwo img{
+    clear: both;
+}
+.numtwo h1{
+    color: rgb(29, 27, 27);
+}
+.numtwo p{
+    color: rgb(88, 44, 44);
+}
+.orderdlist{
+    display: inline-block;
+    text-align: left;
+}
+.thebox{
+    background-color: black;
+    width: 300px;
+    height: 400px;
+    text-align: left;
+    color: white;
+    border-style: double;
+    border-width: 5px;
+    border-color: white;
+    margin-left: 345px;
+}
+.thebox p{
+    color: white;
+    padding-left: 10px;
+}
+.thebox h2{
+    color: rgb(185, 56, 56);
+    padding-left: 10px;
+}
+.theboxtwo{
+    background-color: rgb(221, 85, 85);
+    width: 200px;
+    height: 150px;
+    text-align: left;
+    color: white;
+    border-style: double;
+    border-width: 5px;
+    margin-left: 10px;
+    margin-top: 20px;
+    border-color: white;
+    border-radius: 10px;
+    
+}
+.theboxtwo p{
+    color: rgb(0, 0, 0);
+    padding-left: 10px;
+}
+.theboxtwo h2{
+    color: rgb(0, 0, 0);
+    padding-left: 10px;
+    font-size: 15px;
+}

@@ -1,0 +1,85 @@
+body{
+    background-color:aliceblue;
+}
+
+.Heading1 h1{
+    color:#698996;
+    text-decoration:underline;
+    text-decoration-color:#EFF6EE;
+    text-decoration-style:wavy;
+    font-size: 180px;
+    margin-left:1000px;
+}
+
+.Links{
+    margin-left:750px;
+    font-size: 35px;
+}
+
+.Riedellphoto1{
+    margin-left:500px;
+}
+
+.Riedellphoto1 p{
+    margin-left:650px;
+    color:#698996;
+    font-size: 15px;
+}
+
+.Riedell1 p{
+    color: #a680a6;
+    font-size: 50px;
+    border-radius: 10px;
+    border-style:double;
+    border-color:#EFF6EE;
+    background-color:whitesmoke;
+    border-width: 10px;
+    padding:40px;
+}
+
+.Riedell1 h1{
+    color:#698996;
+    text-decoration:underline;
+    text-decoration-color:#EFF6EE;
+    text-decoration-style:wavy;
+    font-size: 100px;
+    margin-left:800px;
+}
+.Riedell2 p{
+    color: #a680a6;
+    font-size: 50px;
+    border-radius: 10px;
+    border-style:double;
+    border-color:#EFF6EE;
+    background-color:whitesmoke;
+    border-width: 10px;
+    padding:40px;
+}
+.Riedell2 h1{
+    color:#698996;
+    text-decoration:underline;
+    text-decoration-color:#EFF6EE;
+    text-decoration-style:wavy;
+    font-size: 100px;
+    margin-left:900px;
+}
+.Riedell3 p{
+    color: #a680a6;
+    font-size: 50px;
+    border-radius: 10px;
+    border-style:double;
+    border-color:#EFF6EE;
+    background-color:whitesmoke;
+    border-width: 10px;
+    padding:40px;
+}
+.Riedell3 h1{
+    color:#698996;
+    text-decoration:underline;
+    text-decoration-color:#EFF6EE;
+    text-decoration-style:wavy;
+    font-size: 100px;
+    margin-left:800px;
+}
+
+

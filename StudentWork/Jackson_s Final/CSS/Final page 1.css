@@ -1,0 +1,62 @@
+img{
+    width: 100%;
+}
+
+body{
+    background-color: darkblue;
+}
+
+p{
+    color: wheat;
+    background-color: blue;
+    font-size: large;
+    font-family: fantasy;
+    border-radius: 40px;
+    border-style: ridge;
+    border-color: green;
+    border-width: 15px;
+}
+
+h1{
+    color: wheat;
+    background-color: darkolivegreen;
+    border-radius: 40px;
+    border-style: ridge;
+    border-color: darkslateblue;
+    border-width: 15px;
+}
+
+.IMG p{
+    font-size: small;
+    background-color: red;
+    font-family: fantasy;
+    border-radius: 40px;
+    border-style: ridge;
+    border-color: blue;
+    border-width: 15px;
+}
+
+.IMG h6{
+    font-size: large;
+    font-family: fantasy;
+    color: wheat;
+    background-color: green;
+    border-radius: 40px;
+    border-style: ridge;
+    border-color: red;
+    border-width: 15px;
+}
+
+a{
+    background-color: darkolivegreen;
+    border-radius: 40px;
+    border-style: ridge;
+    border-color: darkslateblue;
+    border-width: 15px;
+    width: 50px;
+}
+
+.IMG a{
+    background: transparent;
+    border: transparent;
+}

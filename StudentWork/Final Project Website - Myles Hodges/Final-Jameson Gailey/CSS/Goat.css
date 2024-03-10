@@ -1,0 +1,43 @@
+body{
+    background:linear-gradient(90deg, black, gray) ;
+    color: white;
+}
+
+p{
+    background: linear-gradient(90deg, gray, black);
+    font-size: 45px;
+}
+
+div{
+    background-color: white;
+}
+
+.IMAGES{
+    width: 50%;
+    margin: auto;
+    margin-bottom: 100px;
+    border-radius: 25px;
+}
+
+img{
+    width: 95%;
+    margin: 22px;
+}
+
+.info{
+    height: 250px;
+    padding-top: 20px;
+    border-radius: 25px;
+}
+
+.info p{
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 25px;
+}
+
+a{
+    background: linear-gradient(90deg, gray, black);
+    color: white;
+}

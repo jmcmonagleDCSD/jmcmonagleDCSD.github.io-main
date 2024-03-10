@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(84, 84, 84);
+    color:rgb(255, 0, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align:center ;
+    background-color: rgb(255, 255, 255);
+    padding: 17px;
+}
+
+a{
+    color: cyan;
+    font-size: large;
+}
+
+p{
+    background-color:rgb(255, 255, 255) ;
+    height: 150px;
+    width: 800px;
+    float: left;
+    font-size: large;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+    border-style: dashed;
+}
+
+
+
+.JIM{
+   text-align: center;
+   clear: both;
+}
+
+img{
+    filter: brightness(1.5);
+    filter: sepia(30%);
+    filter: saturate(60%);
+    border-radius: 20px;
+    float: left;
+}
+
+
+.J{
+    height: 25px;
+}
+ol{
+    clear: both;
+    font-size: large;
+    background-color:rgb(255, 255, 255) ;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+    border-style: dashed;
+}
+br{
+    clear: both;
+}
+hr{
+    clear: both;
+}

@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(87, 86, 86);
+    color:rgb(255, 0, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+    background-color:rgb(255, 255, 255);
+    font-size: 50px;
+}
+
+a{
+    color: cyan;
+}
+
+ p{
+        background-color:rgb(255, 255, 255) ;
+        height: 300px;
+        width: 450px;
+        float: left;
+        font-size: large;
+        border-radius: 10px;
+        border-width: 5px;
+    border-color: black;
+    border-style: dashed;
+}
+
+.Joe{
+    margin: 25px;
+    float: right;
+    
+}
+
+img{
+    float: left;
+    filter: brightness(3);
+    filter: sepia(30%);
+    filter: saturate(120%);
+    margin: 25px;
+    border-radius: 20px;
+}
+
+h3{
+   clear: both;
+   text-align: center;
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    border-radius: 10px;
+        border-width: 5px;
+    border-color: black;
+    border-style: dashed;
+}
+
+ol{
+    border-radius: 10px;
+        border-width: 5px;
+    border-color: black;
+    border-style: dashed;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    font-size: larger;
+    
+    
+}
+
+.Jack{
+    clear: both;
+    height: 40px;
+    width: 400px;
+    text-align: center;
+    float: right;
+}
+
+.jack{
+    float: left;
+    background-color: black;
+
+}
+
+h4{
+    border-radius: 10px;
+        border-width: 5px;
+    border-color: black;
+    border-style: dashed;
+    clear: both;
+    background-color:rgb(255, 255, 255) ;
+    width: 400px;
+    font-size: larger;
+    height: 25px;
+}

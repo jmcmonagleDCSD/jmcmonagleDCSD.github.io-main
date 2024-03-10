@@ -1,0 +1,391 @@
+body{
+    background-image: url(../Images/desktop-wallpaper-dark-gradient-iphone-purple-blue-gradient.jpg);
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+  
+    100% {
+        opacity: 1;
+    }
+  }
+.Songs{
+    align-self: center;
+    background-color: rgb(152,75,231);
+    position: absolute;
+    width: 30%;
+    height: 100%;
+    border-radius: 25px;
+    opacity: .7;
+    top: 0%;
+    left: 10%;
+
+}
+.Albums{
+    align-self: center;
+    background-color: rgb(152,75,231);
+    position: absolute;
+    width: 30%;
+    height: 100%;
+    border-radius: 25px;
+    opacity: .7;
+    top: 0%;
+    right: 10%;
+
+}
+.Vultures{
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    border-radius: 10px;
+    left: 15%;
+}
+.Burn{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 35px;
+    position: absolute;
+    left: 26%;
+    top: 0%;
+
+}
+.one{
+    font-size: 50px;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    left: 12%;
+
+}
+
+.Plays{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 25px;
+    position: absolute;
+    left: 28%;
+    top: 5%;
+    padding-top: 15px;
+}
+.Vulturestwo{
+    position: absolute;
+    width: 7%;
+    height: 14%;
+    border-radius: 10px;
+    left: 15%;
+    top: 30%;
+}
+.two{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    left: 12%;
+    top: 30%;
+
+}
+
+.Carnival{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 35px;
+    position: absolute;
+    left: 24%;
+    top: 25%;
+
+}
+.Playstwo{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 25px;
+    position: absolute;
+    left: 26%;
+    top: 30%;
+    padding-top: 15px;
+
+}
+.Utopia{
+    position: absolute;
+    width: 7%;
+    height: 14%;
+    border-radius: 10px;
+    left: 15%;
+    top: 55%;
+}
+.three{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    left: 12%;
+    top: 55%;
+
+}
+
+.Fein{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 35px;
+    position: absolute;
+    left: 24%;
+    top: 50%;
+}
+.Playsthree{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 25px;
+    position: absolute;
+    left: 26%;
+    top: 55%;
+    padding-top: 15px;
+
+}
+.Graduation{
+    position: absolute;
+    width: 7%;
+    height: 15%;
+    border-radius: 10px;
+    left: 15%;
+    top: 80%;
+}
+
+.Nothing{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 25px;
+    position: absolute;
+    left: 24%;
+    top: 75%;
+}
+.Playsfour{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 25px;
+    position: absolute;
+    left: 26%;
+    top: 78%;
+    padding-top: 15px;
+
+}
+.four{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    left: 12%;
+    top: 80%;
+}
+
+   
+
+  
+
+.btn{
+  background: transparent;
+  text-decoration: none;
+  position: absolute;
+  top: 0%;
+  font-weight: bold;
+  font-size: xx-large;
+  color: white;
+  right: 15px;
+  z-index: -1;
+ 
+}
+.btn {
+  border: none;
+  background-color: #2e1595;
+  border-radius: 40px;
+  color: #fff;
+  transition: .3s;
+  
+}
+.buttons{
+  background: transparent;
+  text-decoration: none;
+  position: absolute;
+  top: 0%;
+  font-weight: bold;
+  font-size: xx-large;
+  color: white;
+  left:0px;
+ 
+}
+.buttons {
+  border: none;
+  background-color: #2e1595;
+  border-radius: 40px;
+  color: #fff;
+  transition: .3s;
+}
+.buttons:hover {
+  box-shadow: 8px 8px
+}
+.btn:hover {
+  box-shadow: 8px 8px
+}
+
+
+.button{
+  background: transparent;
+  text-decoration: none;
+  position: absolute;
+  top: 0%;
+  font-weight: bold;
+  font-size: xx-large;
+  color: white;
+  right:0px;
+  position: absolute;
+  right: 45%;
+ 
+}
+
+.button {
+  border: none;
+  background-color: #2e1595;
+  border-radius: 40px;
+  color: #fff;
+  transition: .3s;
+}
+.button:hover {
+  box-shadow: 8px 8px
+}
+
+  .doom{
+    position: absolute;
+    width: 7%;
+    height: 15%;
+    border-radius: 10px;
+    right: 25%;
+    top: 80%;
+  }
+  .KL{
+    position: absolute;
+    width: 7%;
+    height: 15%;
+    border-radius: 10px;
+    right: 25%;
+    top: 55%;
+  }
+  .pusha{
+    position: absolute;
+    width: 7%;
+    height: 15%;
+    border-radius: 10px;
+    right: 25%;
+    top: 30%;
+  }
+  .college{
+    position: absolute;
+    width: 10%;
+    height: 20%;
+    border-radius: 10px;
+    right: 25%;
+  }
+ .ones{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    right: 37%;
+    top: 0%;
+ }
+ .College{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    right: 11.5%;
+    top: 0%;
+ }
+
+ .Playss{
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    right: 11%;
+    top: 7%;
+ }
+ .Twos{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    right: 35%;
+    top: 30%;
+ }
+ .travis{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    right: 19.5%;
+    top: 28%;
+ }
+
+ .Playstwos{
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    right: 13%;
+    top: 34%;
+ }
+ .threes{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    right: 35%;
+    top: 53%;
+ }
+ .Kendrick{
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    right: 11.5%;
+    top: 52%;
+ }
+
+ .Playsthrees{
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    right: 11%;
+    top: 58%;
+ }
+ .fours{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    right: 35%;
+    top: 76%;
+ }
+ .Mf{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    right: 20%;
+    top: 77%;
+ }
+
+ .Playsfours{
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    color: rgb(255, 255, 255);
+    right: 11%;
+    top: 84%;
+ }
+

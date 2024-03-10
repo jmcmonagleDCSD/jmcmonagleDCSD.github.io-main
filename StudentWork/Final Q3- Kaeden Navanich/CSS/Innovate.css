@@ -1,0 +1,23 @@
+Html{
+     background-color: maroon;
+}
+.Links a{
+    color: aliceblue;
+}
+.Reasons h2{
+    color: mintcream;
+}
+.Reasons li{
+    color: aquamarine;
+}
+.Reasons{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+body{ 
+    border-style: groove;
+    width: 500px;
+}
+p{
+    color: cornflowerblue;
+}

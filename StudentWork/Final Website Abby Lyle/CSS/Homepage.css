@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(232, 245, 249);
+}
+h1{
+    color:#698996;
+}
+h1{
+    text-align: center;
+    font-size: 120px;
+    text-decoration:underline;
+    text-decoration-style:double;
+    text-decoration-thickness: 5px;
+    text-decoration-color:#a680a6;
+}
+
+.Links{
+    margin-left:1000px;
+    font-size:20px;
+    color: rgb(232, 245, 249)
+}
+
+ul{
+    font-size:60px;
+    font-family:unset;
+    text-decoration: underline;
+    text-decoration-thickness: 3px;
+    text-decoration-color: darkgrey;
+    color:rgb(158, 155, 155)
+}
+.Skaterimage img{
+    margin-left:400px;
+    border:5px;
+    border-color:#EFF6EE;
+    border-radius: 100px;
+}
+.Skaterimage p{
+    margin-left:1200px;
+    text-decoration: underline;
+    text-decoration-color: rgb(123, 123, 123);
+    color:rgb(123, 123, 123);
+}
+.Edea{
+    color:#698996;
+    font-size: 100px;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-decoration-color: #ccdbca;
+    float:left;
+    margin-left:600px;
+}
+.Jackson{
+    color:#698996;
+    font-size: 100px;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-decoration-color:#ccdbca;
+    float:left;
+    margin-left:100px;
+    
+}
+.Riedell{
+    color:#698996;
+    font-size: 100px;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-decoration-color: #ccdbca;
+    float:left;
+    margin-left:100px;
+}
+.SPTeri{
+    color:#698996;
+    font-size: 100px;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-decoration-color: #ccdbca;
+    float:left;
+    margin-left:100px;
+}

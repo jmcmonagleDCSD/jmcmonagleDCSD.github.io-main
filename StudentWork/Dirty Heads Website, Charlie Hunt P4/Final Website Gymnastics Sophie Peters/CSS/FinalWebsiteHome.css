@@ -1,0 +1,56 @@
+body{
+    background-color:#aec5eb
+}
+img{
+    border-style:dashed;
+    border-color:#828a95;
+    border-width:5px;
+    border-radius:50px;
+}
+h1{
+    background-color:#ccd7e4;
+    text-align: center;
+    border-style:solid;
+    border-color:lavenderblush;
+    border-radius:5px;
+        font-family: "Leckerli One", cursive;
+        font-weight: 400;
+        font-style: normal;
+    
+}
+.Events{
+    border-radius:10px;
+}
+p{
+    font-family: "Handlee", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+ol{
+    font-family: "Handlee", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+a:link {
+  color:lightgrey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: lightslategray;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #b1b3d6;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #b7c8ff;
+  background-color: transparent;
+  text-decoration: underline;
+}

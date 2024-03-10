@@ -1,0 +1,17 @@
+body{
+    background-color: darkgreen;
+}
+.box1{
+    background-color: tan;
+    border-radius: 50px;
+    height: 60px;
+    padding-left: 20px;
+}
+.box2{
+    background-color: tan;
+    height: 600px;
+    width: 2510px;
+    border-radius: 100px ;
+    text-indent: 80px;
+    padding: 20px;
+}

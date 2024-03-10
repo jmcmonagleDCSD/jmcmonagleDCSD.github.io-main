@@ -1,0 +1,21 @@
+.header{
+    padding: 60px;
+    text-align: center; 
+    background: lightblue;
+     color:  red;
+     font-size: 30xpx;
+}
+
+body{
+    background-color: lightcyan;
+    color: red;
+}
+
+img{
+    
+        width: 600px;
+        height: 500px; 
+        padding: 20px;
+
+}
+

@@ -1,0 +1,46 @@
+body{
+    background-color: #95a3b3;
+}
+h1{
+    font-family: "Leckerli One", cursive;
+        font-weight: 400;
+        font-style: normal;
+        text-align:center;
+        border-style:dotted;
+        border-color:rgb(203,208,255);
+}
+table{
+    font-family:arial, sans-serif;
+    border-collapse:collapse;
+    width:100%;
+    background-color:#c0c7e1;
+}
+
+td,th{
+    border:1px solid;
+    text-align:left;
+    padding:8px;
+}
+a:link {
+    color:lightgrey;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: lightslategray;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #b1b3d6;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: #b7c8ff;
+    background-color: transparent;
+    text-decoration: underline;
+  }

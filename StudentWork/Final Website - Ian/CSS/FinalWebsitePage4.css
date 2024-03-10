@@ -1,0 +1,79 @@
+body{
+    background-color:rgb(41,171,135);
+}
+.Animals{
+ border-style:solid;
+ background-color:rgb(229, 102, 28);
+ text-align:center;
+}
+.dropdowntbn{
+    background-color: rgb(133, 133, 133);
+    color:white;
+    padding:24px;
+    border:none;
+    cursor:pointer;
+}
+.dropdown{
+    position:relative;
+    display:inline-block;
+}
+.dropdown-content{
+    display:none;
+    position:absolute;
+    background-color: rgb(113, 115, 115);
+    min-width: 200px;
+    box-shadow: 20px 8px 16px opx rgb(0,0,0.05);
+    z-index: 1;
+}
+.dropdown-content a{
+    color:black;
+    padding:12px 16px;
+    text-decoration: none;
+    display: block;
+}
+.dropdown-content a:hover {
+background-color:rgb(93, 95, 94);
+}
+.dropdown:hover .dropdown-content{
+    display:block;
+}
+.dropdown:hover .dropbtn{
+    background-color:rgb(58, 242, 107);
+}
+.animals{
+    background-color:rgb(116, 16, 16);
+    border-style:dashed;
+    width:300px;
+}
+.Kinds{
+    background-color: rgb(255, 106, 0);
+    border-style:solid;
+}
+.mamals{
+    background-color:brown;
+    width:300px;
+    float:right;
+}
+.Amphibians{
+    background-color:rgb(16, 146, 16);
+    width:275px;
+}
+.Arachnids{
+    background-color: rgb(100, 70, 70);
+    width:259px;
+    float:left;
+}
+.Crustaceans{
+    background-color: rgb(62, 62, 239);
+    border-style:dashed;
+    float:right;
+}
+.many{
+    background-color: rgb(83, 172, 214);
+    border-style:solid;
+    clear: both;
+}
+.species{
+    border-style: solid;
+    background-color: aqua;
+}
